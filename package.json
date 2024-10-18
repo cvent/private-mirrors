@@ -57,7 +57,7 @@
     "babel-jest": "29.7.0",
     "concurrently": "8.2.2",
     "dotenv-load": "3.0.0",
-    "eslint": "8.57.0",
+    "eslint": "8.57.1",
     "eslint-config-next": "14.2.5",
     "github-app-webhook-relay-polling": "2.0.0",
     "husky": "9.0.11",
